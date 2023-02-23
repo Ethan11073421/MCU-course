@@ -144,7 +144,8 @@ This homework is to specify a Innovative Project Proposal and describe the key f
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_companion_robot.png?raw=true)
-
+### 統一獅2020
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/gr2DjP6y1-k" title="2020統一獅總冠軍之路" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 ## Design Methodology (設計方法)
 * Top-Down Design  ：由上層應用分析再區分出下層個別功能及所需軟硬體設計
