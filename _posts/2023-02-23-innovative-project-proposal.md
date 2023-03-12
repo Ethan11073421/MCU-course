@@ -69,7 +69,7 @@ This homework is to specify a Innovative Project Proposal and describe the key f
 3. 衣物辨識:AI偵測
 
 ### 系統方塊圖
-![](https://github.com/Ethan11073421/MCU-course/blob/main/images/%E8%80%B6.jpg)
+
 
 ---
 ## 料理機器人
