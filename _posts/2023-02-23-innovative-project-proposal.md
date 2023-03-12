@@ -70,7 +70,7 @@ This homework is to specify a Innovative Project Proposal and describe the key f
 
 ### 系統方塊圖
 
-![](https://github.com/Ethan11073421/MCU-course/blob/main/images/%E7%B3%BB%E7%B5%B1%E6%96%B9%E5%A1%8A%E5%9C%96.png)
+![](https://github.com/Ethan11073421/MCU-course/blob/main/images/%E7%B3%BB%E7%B5%B1%E6%96%B9%E5%A1%8A%E5%9C%96%20(1).png)
 ---
 ## 料理機器人
 ### 應用功能說明
