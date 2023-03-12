@@ -58,10 +58,15 @@ This homework is to specify a Innovative Project Proposal and describe the key f
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-
+1. 移動方式:滾輪
+2. 供電方式:無線充電
+3. 聯網方式:WIFI
+4. 裝置:懸吊式手臂+內建置物空間
 
 **所需相關技術：**
-
+1. 物品夾具:懸吊掛鉤
+2. 充電技術:電磁感應、磁場共振、電廠耦合
+3. 衣物辨識:AI偵測
 
 ### 系統方塊圖
 
