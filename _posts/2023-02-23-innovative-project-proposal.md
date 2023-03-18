@@ -3,7 +3,7 @@ layout: post
 title: Innovative Project Proposal
 author: [Ethan Lo]
 category: [Lecture]
-tags: [jekyll, ai]
+
 ---
 
 This homework is to specify a Innovative Project Proposal and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
