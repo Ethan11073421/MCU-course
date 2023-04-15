@@ -32,6 +32,21 @@ This project is to implement a bluetooth remote controlled robotcar.
 ![](https://image.ruten.com.tw/g2/8/d4/16/21440347657238_872.jpg)
 ### 程式碼
 ![](https://github.com/Ethan11073421/MCU-course/blob/main/images/%E5%85%B6%E4%B8%AD%E7%A8%8B%E5%BC%8F%E7%A2%BC.jpg)
+final FilterOptionGroup options = FilterOptionGroup()
+        ..setOption(
+          AssetType.image,
+          const FilterOption(
+            needTitle: true,
+            sizeConstraint: SizeConstraint(ignoreSize: true),
+          ),
+        );
+
+      list = await PhotoManager.getAssetPathList(
+        type: RequestType.image,
+        hasAll: true,
+        onlyAll: false,
+        filterOption: options,
+      );
 ### 實作影片
 <!-- Modified from https://github.com/nathancy/jekyll-embed-video -->
 <div class="iframe-container">
