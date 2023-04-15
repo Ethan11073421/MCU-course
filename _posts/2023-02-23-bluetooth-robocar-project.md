@@ -31,7 +31,7 @@ This project is to implement a bluetooth remote controlled robotcar.
 **所需相關套件:**
 ![](https://image.ruten.com.tw/g2/8/d4/16/21440347657238_872.jpg)
 ### 實作影片
-*(<iframe width="900" height="506" src="https://www.youtube.com/embed/QGGFdLfzZkc" title="微控制介面與驅動設計 期中作業-藍芽遙控機器人" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+<iframe width="853" height="480" src="https://www.youtube.com/embed/QGGFdLfzZkc" title="微控制介面與驅動設計 期中作業-藍芽遙控機器人" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
 
