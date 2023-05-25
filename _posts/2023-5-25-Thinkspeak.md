@@ -1,7 +1,7 @@
 ### 系統方塊圖
 ![](https://github.com/Ethan11073421/MCU-course/blob/main/images/thinkspeak.png?raw=true)
 ### 影片展示
-
+<iframe width="853" height="480" src="https://www.youtube.com/embed/QlF97MPjt8k" title="Thinkspeak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ### 程式碼
 #include <Wire.h>
 #include <SparkFun_TB6612.h>
