@@ -1,5 +1,5 @@
 ### 系統方塊圖
-
+![](https://github.com/Ethan11073421/MCU-course/blob/main/images/thinkspeak.png?raw=true)
 ### 影片展示
 
 ### 程式碼
