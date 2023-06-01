@@ -1,7 +1,8 @@
 ---
 layout: post
-title: What's Jekyll?
-category: [Example]
+title: webserver
+aurthor:[Ethan Lo]
+category: [lecture]
 tags: [jekyll]
 ---
 
