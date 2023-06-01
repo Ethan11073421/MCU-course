@@ -1,7 +1,7 @@
 ---
 layout: post
 title: webserver
-aurthor:[Ethan Lo]
+aurthor: [Ethan Lo]
 category: [lecture]
 tags: [jekyll]
 ---
