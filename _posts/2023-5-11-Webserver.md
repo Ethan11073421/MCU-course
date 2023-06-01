@@ -1,4 +1,14 @@
-### 系統方塊圖
+
+---
+layout: post
+title: What's Jekyll?
+category: [Example]
+tags: [jekyll]
+---
+
+[Jekyll](https://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. 
+
+---### 系統方塊圖
 ![](https://github.com/Ethan11073421/MCU-course/blob/main/images/server.png?raw=true)
 ### 實作影片展示
 <iframe width="853" height="480" src="https://www.youtube.com/embed/gBMwBVS6LMQ" title="server client" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
