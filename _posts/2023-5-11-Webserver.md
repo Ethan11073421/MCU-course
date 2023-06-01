@@ -6,7 +6,7 @@ category: [lecture]
 tags: [jekyll]
 ---
 
-[Jekyll](https://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. 
+
 
 ---### 系統方塊圖
 ![](https://github.com/Ethan11073421/MCU-course/blob/main/images/server.png?raw=true)
